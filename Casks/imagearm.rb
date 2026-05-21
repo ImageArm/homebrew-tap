@@ -1,6 +1,6 @@
 cask "imagearm" do
-  version "1.3.3"
-  sha256 "e84a23f0ef87a89fcf0ac47361d7ef81a39b6d46d68ea8eaa9dc7a898611b98b"
+  version "1.4.0"
+  sha256 "4ce625f08fbb14c54e261ad0c34e92c4cb8096c6757243fd8d8a5e8e300a2ff8"
 
   url "https://github.com/ImageArm/ImageArm/releases/download/v#{version}/ImageArm-#{version}.dmg"
   name "ImageArm"
